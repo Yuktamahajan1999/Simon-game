@@ -51,9 +51,4 @@ Simon-Game/
 
 ---
 
-## 🙌 Contributing
-
-Contributions, ideas, and improvements are welcome! Fork this repo, make changes, and submit a pull request.
-
----
 
