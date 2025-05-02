@@ -16,7 +16,7 @@ A classic color memory game built using **HTML**, **CSS**, and **JavaScript**. C
 
 ## 🚀 Live Demo
 
-👉 [Click here to play the Simon Game]
+👉 [Click here to play the Simon Game]https://github.com/Yuktamahajan1999/Simon-Game
 
 ---
 
